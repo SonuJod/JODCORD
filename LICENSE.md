@@ -1,6 +1,6 @@
 ---
 
-**SOFTWARE LICENSE AGREEMENT**
+**JODCORD LICENSE AGREEMENT**
 
 **1. Definitions**
 
